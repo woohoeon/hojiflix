@@ -4,13 +4,11 @@ plugins:
   - react-hooks
   - prettier
 extends:
-  - google
-  - plugin:react/recommended
-  - prettier
+  - plugin:prettier/recommended
   - prettier/react
 settings:
   react:
-    version: "16.6.0"
+    version: "16.8.5"
 rules:
   prettier/prettier:
     - 2
