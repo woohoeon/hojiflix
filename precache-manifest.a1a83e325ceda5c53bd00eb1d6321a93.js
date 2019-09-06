@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6ab95487cd090f1c04432de75df475b",
+    "revision": "3ef37e136a41da9cae5850699114b2d3",
     "url": "/hojiflix/index.html"
   },
   {
-    "revision": "aaff3138166c20abdbe3",
-    "url": "/hojiflix/static/js/2.fd03590b.chunk.js"
+    "revision": "3b06384d1ab6cef5b821",
+    "url": "/hojiflix/static/js/2.8869bcea.chunk.js"
   },
   {
-    "revision": "c545ab0c8c90160443c1",
-    "url": "/hojiflix/static/js/main.8635677a.chunk.js"
+    "revision": "68c54c15a8cc1ea882bd",
+    "url": "/hojiflix/static/js/main.a89ebe73.chunk.js"
   },
   {
     "revision": "6d59a79bf94e1cc5a465",

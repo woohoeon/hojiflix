@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hojiflix/precache-manifest.a99a90fe1fa2144046e3c0e5bafcf9b0.js"
+  "/hojiflix/precache-manifest.a1a83e325ceda5c53bd00eb1d6321a93.js"
 );
 
 self.addEventListener('message', (event) => {
