@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ef37e136a41da9cae5850699114b2d3",
+    "revision": "c8b7b0fef5b7981d40af3a3a39a127ef",
     "url": "/hojiflix/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hojiflix/static/js/2.8869bcea.chunk.js"
   },
   {
-    "revision": "68c54c15a8cc1ea882bd",
-    "url": "/hojiflix/static/js/main.a89ebe73.chunk.js"
+    "revision": "abb671a34c349a29b023",
+    "url": "/hojiflix/static/js/main.f5c4c58a.chunk.js"
   },
   {
     "revision": "6d59a79bf94e1cc5a465",

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/hojiflix/static/js/main.a89ebe73.chunk.js",
-    "main.js.map": "/hojiflix/static/js/main.a89ebe73.chunk.js.map",
+    "main.js": "/hojiflix/static/js/main.f5c4c58a.chunk.js",
+    "main.js.map": "/hojiflix/static/js/main.f5c4c58a.chunk.js.map",
     "runtime~main.js": "/hojiflix/static/js/runtime~main.90156136.js",
     "runtime~main.js.map": "/hojiflix/static/js/runtime~main.90156136.js.map",
     "static/js/2.8869bcea.chunk.js": "/hojiflix/static/js/2.8869bcea.chunk.js",
     "static/js/2.8869bcea.chunk.js.map": "/hojiflix/static/js/2.8869bcea.chunk.js.map",
     "index.html": "/hojiflix/index.html",
-    "precache-manifest.a1a83e325ceda5c53bd00eb1d6321a93.js": "/hojiflix/precache-manifest.a1a83e325ceda5c53bd00eb1d6321a93.js",
+    "precache-manifest.a90ab9351a166cb7f191f1833b9f952d.js": "/hojiflix/precache-manifest.a90ab9351a166cb7f191f1833b9f952d.js",
     "service-worker.js": "/hojiflix/service-worker.js",
     "static/media/noPosterSmall.png": "/hojiflix/static/media/noPosterSmall.87a0eb6a.png"
   }
